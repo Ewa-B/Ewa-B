@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ewa-B
-- 👀 I’m interested in lots of things :)
-- 🌱 I’m currently learning programming, comuter science.
-- 💞️ I’m looking to collaborate on entry level stuff
-- 📫 How to reach me: git.ewa.b@gmail.com
+- 👀 I’m a second-year BSc (Hons) Computer Science student.
+- 🌱 I’m currently learning OO programming, mobile development, web development, cyber security, AI.
+- 💞️ I’m work with Java, JavaScript, Python, SQL, CSS and HTML.
+- 📫 How to reach me: ewabancerz@gmail.com
 
 <!---
 Ewa-B/Ewa-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
