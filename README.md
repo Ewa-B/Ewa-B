@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ewa-B
-- 👀 I’m a second-year BSc (Hons) Computer Science student.
+- 👀 I’m a final-year BSc (Hons) Computer Science student.
 - 🌱 I’m currently learning OO programming, mobile development, web development, cyber security, AI.
 - 💞️ I’m work with Java, JavaScript, PHP, Python, SQL, CSS and HTML.
 - 📫 How to reach me: ewabancerz@gmail.com
