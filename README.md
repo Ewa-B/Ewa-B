@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ewa-B
 - 👀 I’m a student at University of Sussex - MSc Artificial Intelligence and Adaptive Systems 
-- 👀 I’m a graduate at University of Brightin - BSc (Hons) Computer Science.
+- 👀 I’m a graduate at University of Brighton - BSc (Hons) Computer Science.
 - 💞️ I’m work with Python, Java, JavaScript, PHP, React, SQL, CSS and HTML.
 - 📫 How to reach me: ewabancerz@gmail.com
 
